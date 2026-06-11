@@ -1,0 +1,14 @@
+.red {
+    color: red;
+}
+
+.cyan {
+    /*CSS supports HEX code as color*/
+    color: #007878;
+}
+
+.purple {
+    /*You can use the `rgb` function to use rgb format*/
+    color: rgb(115, 0, 255);
+}
+
